@@ -2,11 +2,7 @@
 
 ### How to Run
 In the terminal, run
-`cd socketio-server`
-`npm install`
-`npm start`
+`cd socketio-server`, `npm install`, `npm start`
 
 In another terminal, run
-`cd react-client`
-`npm install`
-`npm start`
+`cd react-client`, `npm install`, `npm start`
